@@ -1,0 +1,11 @@
+#For Initial Git Repo commands
+git init - to make a directory as a git repository
+git add 
+git commit -m " Descritive text"
+
+#Branching Commands
+git branch
+git switch 
+git checkout -b dev  -to create and switch to dev branch
+git checkout dev - to switch to existing dev branch
+git checkout -d dev   - To delete the branch
