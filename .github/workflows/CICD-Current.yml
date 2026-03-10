@@ -5,7 +5,7 @@ on:
    inputs:
     environment:
      description: envt where these workflows is done.
-     default: 'dev'
+     default: 'dev' 
      required: true
      type: choice
      options:
